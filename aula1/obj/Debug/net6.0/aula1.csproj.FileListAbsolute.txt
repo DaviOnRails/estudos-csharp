@@ -1,0 +1,15 @@
+/home/nycolases6/Documentos/dev/davi/curso-csharp/aula1/bin/Debug/net6.0/aula1
+/home/nycolases6/Documentos/dev/davi/curso-csharp/aula1/bin/Debug/net6.0/aula1.deps.json
+/home/nycolases6/Documentos/dev/davi/curso-csharp/aula1/bin/Debug/net6.0/aula1.runtimeconfig.json
+/home/nycolases6/Documentos/dev/davi/curso-csharp/aula1/bin/Debug/net6.0/aula1.dll
+/home/nycolases6/Documentos/dev/davi/curso-csharp/aula1/bin/Debug/net6.0/ref/aula1.dll
+/home/nycolases6/Documentos/dev/davi/curso-csharp/aula1/bin/Debug/net6.0/aula1.pdb
+/home/nycolases6/Documentos/dev/davi/curso-csharp/aula1/obj/Debug/net6.0/aula1.csproj.AssemblyReference.cache
+/home/nycolases6/Documentos/dev/davi/curso-csharp/aula1/obj/Debug/net6.0/aula1.GeneratedMSBuildEditorConfig.editorconfig
+/home/nycolases6/Documentos/dev/davi/curso-csharp/aula1/obj/Debug/net6.0/aula1.AssemblyInfoInputs.cache
+/home/nycolases6/Documentos/dev/davi/curso-csharp/aula1/obj/Debug/net6.0/aula1.AssemblyInfo.cs
+/home/nycolases6/Documentos/dev/davi/curso-csharp/aula1/obj/Debug/net6.0/aula1.csproj.CoreCompileInputs.cache
+/home/nycolases6/Documentos/dev/davi/curso-csharp/aula1/obj/Debug/net6.0/aula1.dll
+/home/nycolases6/Documentos/dev/davi/curso-csharp/aula1/obj/Debug/net6.0/ref/aula1.dll
+/home/nycolases6/Documentos/dev/davi/curso-csharp/aula1/obj/Debug/net6.0/aula1.pdb
+/home/nycolases6/Documentos/dev/davi/curso-csharp/aula1/obj/Debug/net6.0/aula1.genruntimeconfig.cache
