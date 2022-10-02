@@ -6,3 +6,10 @@
 /home/davi/Documentos/dev/estudos-csharp/calculator/obj/Debug/net6.0/calculator.dll
 /home/davi/Documentos/dev/estudos-csharp/calculator/obj/Debug/net6.0/ref/calculator.dll
 /home/davi/Documentos/dev/estudos-csharp/calculator/obj/Debug/net6.0/calculator.pdb
+/home/davi/Documentos/dev/estudos-csharp/calculator/bin/Debug/net6.0/calculator
+/home/davi/Documentos/dev/estudos-csharp/calculator/bin/Debug/net6.0/calculator.deps.json
+/home/davi/Documentos/dev/estudos-csharp/calculator/bin/Debug/net6.0/calculator.runtimeconfig.json
+/home/davi/Documentos/dev/estudos-csharp/calculator/bin/Debug/net6.0/calculator.dll
+/home/davi/Documentos/dev/estudos-csharp/calculator/bin/Debug/net6.0/ref/calculator.dll
+/home/davi/Documentos/dev/estudos-csharp/calculator/bin/Debug/net6.0/calculator.pdb
+/home/davi/Documentos/dev/estudos-csharp/calculator/obj/Debug/net6.0/calculator.genruntimeconfig.cache
