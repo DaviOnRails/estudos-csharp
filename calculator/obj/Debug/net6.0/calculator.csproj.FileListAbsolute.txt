@@ -1,0 +1,8 @@
+/home/davi/Documentos/dev/estudos-csharp/calculator/obj/Debug/net6.0/calculator.csproj.AssemblyReference.cache
+/home/davi/Documentos/dev/estudos-csharp/calculator/obj/Debug/net6.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/davi/Documentos/dev/estudos-csharp/calculator/obj/Debug/net6.0/calculator.AssemblyInfoInputs.cache
+/home/davi/Documentos/dev/estudos-csharp/calculator/obj/Debug/net6.0/calculator.AssemblyInfo.cs
+/home/davi/Documentos/dev/estudos-csharp/calculator/obj/Debug/net6.0/calculator.csproj.CoreCompileInputs.cache
+/home/davi/Documentos/dev/estudos-csharp/calculator/obj/Debug/net6.0/calculator.dll
+/home/davi/Documentos/dev/estudos-csharp/calculator/obj/Debug/net6.0/ref/calculator.dll
+/home/davi/Documentos/dev/estudos-csharp/calculator/obj/Debug/net6.0/calculator.pdb

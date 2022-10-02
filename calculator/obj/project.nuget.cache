@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g1drTY00Cc2teiBwqmGN//O+xNt9c6epfnhzL0CLX3PpJWauwMGLH92L0w5tF4+H66nsQKei+z8HcSO/CR9Q6Q==",
+  "dgSpecHash": "5ubPdmOxpRhwINMy+LqOYlwyx/oIdxeHpnYI8thR/XjrJuA79UFfgeshp0SuR36l4S+NminwZn4DcbKDf0845g==",
   "success": true,
-  "projectFilePath": "/home/davi/Documentos/dev/estudos-csharp/calculator/aula2.csproj",
+  "projectFilePath": "/home/davi/Documentos/dev/estudos-csharp/calculator/calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

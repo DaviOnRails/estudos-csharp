@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/davi/Documentos/dev/estudos-csharp/calculator/aula2.csproj",
-      "projectName": "aula2",
-      "projectPath": "/home/davi/Documentos/dev/estudos-csharp/calculator/aula2.csproj",
+      "projectUniqueName": "/home/davi/Documentos/dev/estudos-csharp/calculator/calculator.csproj",
+      "projectName": "calculator",
+      "projectPath": "/home/davi/Documentos/dev/estudos-csharp/calculator/calculator.csproj",
       "packagesPath": "/home/davi/.nuget/packages/",
       "outputPath": "/home/davi/Documentos/dev/estudos-csharp/calculator/obj/",
       "projectStyle": "PackageReference",
