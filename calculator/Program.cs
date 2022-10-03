@@ -28,9 +28,9 @@ namespace Calculator
 
       switch(res){
           case 1: Soma(); break;
-          case 2: Soma(); break;
-          case 3: Soma(); break;
-          case 4: Soma(); break;
+          case 2: Subtracao(); break;
+          case 3: Divisao(); break;
+          case 4: Multiplicacao(); break;
           default : Menu(); break;
       }
     }
