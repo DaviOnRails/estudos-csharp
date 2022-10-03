@@ -1,0 +1,5 @@
+/home/davi/Documentos/dev/estudos-csharp/cronometro/obj/Debug/net6.0/cronometro.csproj.AssemblyReference.cache
+/home/davi/Documentos/dev/estudos-csharp/cronometro/obj/Debug/net6.0/cronometro.GeneratedMSBuildEditorConfig.editorconfig
+/home/davi/Documentos/dev/estudos-csharp/cronometro/obj/Debug/net6.0/cronometro.AssemblyInfoInputs.cache
+/home/davi/Documentos/dev/estudos-csharp/cronometro/obj/Debug/net6.0/cronometro.AssemblyInfo.cs
+/home/davi/Documentos/dev/estudos-csharp/cronometro/obj/Debug/net6.0/cronometro.csproj.CoreCompileInputs.cache
