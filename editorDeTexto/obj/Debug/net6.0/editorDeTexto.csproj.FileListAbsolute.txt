@@ -1,0 +1,5 @@
+/home/davi/Documentos/dev/estudos-csharp/editorDeTexto/obj/Debug/net6.0/editorDeTexto.csproj.AssemblyReference.cache
+/home/davi/Documentos/dev/estudos-csharp/editorDeTexto/obj/Debug/net6.0/editorDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+/home/davi/Documentos/dev/estudos-csharp/editorDeTexto/obj/Debug/net6.0/editorDeTexto.AssemblyInfoInputs.cache
+/home/davi/Documentos/dev/estudos-csharp/editorDeTexto/obj/Debug/net6.0/editorDeTexto.AssemblyInfo.cs
+/home/davi/Documentos/dev/estudos-csharp/editorDeTexto/obj/Debug/net6.0/editorDeTexto.csproj.CoreCompileInputs.cache
