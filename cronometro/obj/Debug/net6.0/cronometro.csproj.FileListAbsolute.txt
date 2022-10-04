@@ -3,3 +3,13 @@
 /home/davi/Documentos/dev/estudos-csharp/cronometro/obj/Debug/net6.0/cronometro.AssemblyInfoInputs.cache
 /home/davi/Documentos/dev/estudos-csharp/cronometro/obj/Debug/net6.0/cronometro.AssemblyInfo.cs
 /home/davi/Documentos/dev/estudos-csharp/cronometro/obj/Debug/net6.0/cronometro.csproj.CoreCompileInputs.cache
+/home/davi/Documentos/dev/estudos-csharp/cronometro/bin/Debug/net6.0/cronometro
+/home/davi/Documentos/dev/estudos-csharp/cronometro/bin/Debug/net6.0/cronometro.deps.json
+/home/davi/Documentos/dev/estudos-csharp/cronometro/bin/Debug/net6.0/cronometro.runtimeconfig.json
+/home/davi/Documentos/dev/estudos-csharp/cronometro/bin/Debug/net6.0/cronometro.dll
+/home/davi/Documentos/dev/estudos-csharp/cronometro/bin/Debug/net6.0/ref/cronometro.dll
+/home/davi/Documentos/dev/estudos-csharp/cronometro/bin/Debug/net6.0/cronometro.pdb
+/home/davi/Documentos/dev/estudos-csharp/cronometro/obj/Debug/net6.0/cronometro.dll
+/home/davi/Documentos/dev/estudos-csharp/cronometro/obj/Debug/net6.0/ref/cronometro.dll
+/home/davi/Documentos/dev/estudos-csharp/cronometro/obj/Debug/net6.0/cronometro.pdb
+/home/davi/Documentos/dev/estudos-csharp/cronometro/obj/Debug/net6.0/cronometro.genruntimeconfig.cache
