@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Editor{
+namespace EditorDeTexto{
 
 class Program {
     static void Main (string[] args){
@@ -9,9 +9,9 @@ class Program {
     }
 
    static void Menu(){
-    
+
     Console.Clear();
-    Console.WritLine("o que você deseja fazer");
+    Console.WriteLine("o que você deseja fazer");
     Console.WritLine("1 - Abrir arquivo");
     Console.WritLine("2 - Criar novo arqivo");
     Console.WritLine("0 -  Sair");
