@@ -3,3 +3,13 @@
 /home/davi/Documentos/dev/estudos-csharp/editorDeTexto/obj/Debug/net6.0/editorDeTexto.AssemblyInfoInputs.cache
 /home/davi/Documentos/dev/estudos-csharp/editorDeTexto/obj/Debug/net6.0/editorDeTexto.AssemblyInfo.cs
 /home/davi/Documentos/dev/estudos-csharp/editorDeTexto/obj/Debug/net6.0/editorDeTexto.csproj.CoreCompileInputs.cache
+/home/davi/Documentos/dev/estudos-csharp/editorDeTexto/bin/Debug/net6.0/editorDeTexto
+/home/davi/Documentos/dev/estudos-csharp/editorDeTexto/bin/Debug/net6.0/editorDeTexto.deps.json
+/home/davi/Documentos/dev/estudos-csharp/editorDeTexto/bin/Debug/net6.0/editorDeTexto.runtimeconfig.json
+/home/davi/Documentos/dev/estudos-csharp/editorDeTexto/bin/Debug/net6.0/editorDeTexto.dll
+/home/davi/Documentos/dev/estudos-csharp/editorDeTexto/bin/Debug/net6.0/ref/editorDeTexto.dll
+/home/davi/Documentos/dev/estudos-csharp/editorDeTexto/bin/Debug/net6.0/editorDeTexto.pdb
+/home/davi/Documentos/dev/estudos-csharp/editorDeTexto/obj/Debug/net6.0/editorDeTexto.dll
+/home/davi/Documentos/dev/estudos-csharp/editorDeTexto/obj/Debug/net6.0/ref/editorDeTexto.dll
+/home/davi/Documentos/dev/estudos-csharp/editorDeTexto/obj/Debug/net6.0/editorDeTexto.pdb
+/home/davi/Documentos/dev/estudos-csharp/editorDeTexto/obj/Debug/net6.0/editorDeTexto.genruntimeconfig.cache
