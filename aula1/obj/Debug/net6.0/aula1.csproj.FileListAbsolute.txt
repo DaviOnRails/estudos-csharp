@@ -21,3 +21,10 @@
 /home/davi/Documentos/dev/estudos-csharp/aula1/obj/Debug/net6.0/aula1.dll
 /home/davi/Documentos/dev/estudos-csharp/aula1/obj/Debug/net6.0/ref/aula1.dll
 /home/davi/Documentos/dev/estudos-csharp/aula1/obj/Debug/net6.0/aula1.pdb
+/home/davi/Documentos/dev/estudos-csharp/aula1/bin/Debug/net6.0/aula1
+/home/davi/Documentos/dev/estudos-csharp/aula1/bin/Debug/net6.0/aula1.deps.json
+/home/davi/Documentos/dev/estudos-csharp/aula1/bin/Debug/net6.0/aula1.runtimeconfig.json
+/home/davi/Documentos/dev/estudos-csharp/aula1/bin/Debug/net6.0/aula1.dll
+/home/davi/Documentos/dev/estudos-csharp/aula1/bin/Debug/net6.0/ref/aula1.dll
+/home/davi/Documentos/dev/estudos-csharp/aula1/bin/Debug/net6.0/aula1.pdb
+/home/davi/Documentos/dev/estudos-csharp/aula1/obj/Debug/net6.0/aula1.genruntimeconfig.cache
