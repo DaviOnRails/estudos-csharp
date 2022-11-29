@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/davi/Documentos/dev/estudos-csharp/EditorHtml/EditorHtml.csproj",
+      "projectUniqueName": "/home/davi/Documentos/EditorHtml/EditorHtml.csproj",
       "projectName": "EditorHtml",
-      "projectPath": "/home/davi/Documentos/dev/estudos-csharp/EditorHtml/EditorHtml.csproj",
+      "projectPath": "/home/davi/Documentos/EditorHtml/EditorHtml.csproj",
       "packagesPath": "/home/davi/.nuget/packages/",
-      "outputPath": "/home/davi/Documentos/dev/estudos-csharp/EditorHtml/obj/",
+      "outputPath": "/home/davi/Documentos/EditorHtml/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/davi/.nuget/NuGet/NuGet.Config"

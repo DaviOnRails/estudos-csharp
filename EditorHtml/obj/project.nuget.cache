@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XLwOzY5T/AMo9Oizm7W5wd7K0VgF0fFHunO3a0KyiyEVCqdelkr8xlWsVj/z4eimNXo+YI65DW5Z2RR9SfpjJA==",
+  "dgSpecHash": "qXWFXQtkruvLczurnXIhD2e0nGZHWMb+mCgxs/1QX8oMYuGwmo5VA4FGhYGCGfKd+FDJP8EpOE69d23ffKGMSA==",
   "success": true,
-  "projectFilePath": "/home/davi/Documentos/dev/estudos-csharp/EditorHtml/EditorHtml.csproj",
+  "projectFilePath": "/home/davi/Documentos/EditorHtml/EditorHtml.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
