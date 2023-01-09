@@ -1,0 +1,15 @@
+/home/davi/Documentos/dev/estudos-csharp/editorHtml2/bin/Debug/net6.0/editorHtml2
+/home/davi/Documentos/dev/estudos-csharp/editorHtml2/bin/Debug/net6.0/editorHtml2.deps.json
+/home/davi/Documentos/dev/estudos-csharp/editorHtml2/bin/Debug/net6.0/editorHtml2.runtimeconfig.json
+/home/davi/Documentos/dev/estudos-csharp/editorHtml2/bin/Debug/net6.0/editorHtml2.dll
+/home/davi/Documentos/dev/estudos-csharp/editorHtml2/bin/Debug/net6.0/ref/editorHtml2.dll
+/home/davi/Documentos/dev/estudos-csharp/editorHtml2/bin/Debug/net6.0/editorHtml2.pdb
+/home/davi/Documentos/dev/estudos-csharp/editorHtml2/obj/Debug/net6.0/editorHtml2.csproj.AssemblyReference.cache
+/home/davi/Documentos/dev/estudos-csharp/editorHtml2/obj/Debug/net6.0/editorHtml2.GeneratedMSBuildEditorConfig.editorconfig
+/home/davi/Documentos/dev/estudos-csharp/editorHtml2/obj/Debug/net6.0/editorHtml2.AssemblyInfoInputs.cache
+/home/davi/Documentos/dev/estudos-csharp/editorHtml2/obj/Debug/net6.0/editorHtml2.AssemblyInfo.cs
+/home/davi/Documentos/dev/estudos-csharp/editorHtml2/obj/Debug/net6.0/editorHtml2.csproj.CoreCompileInputs.cache
+/home/davi/Documentos/dev/estudos-csharp/editorHtml2/obj/Debug/net6.0/editorHtml2.dll
+/home/davi/Documentos/dev/estudos-csharp/editorHtml2/obj/Debug/net6.0/ref/editorHtml2.dll
+/home/davi/Documentos/dev/estudos-csharp/editorHtml2/obj/Debug/net6.0/editorHtml2.pdb
+/home/davi/Documentos/dev/estudos-csharp/editorHtml2/obj/Debug/net6.0/editorHtml2.genruntimeconfig.cache
